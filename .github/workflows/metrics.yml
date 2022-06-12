@@ -26,7 +26,7 @@ jobs:
           user: 5UP3R-D1N
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Berlin
+          config_timezone: Asia/Bangkok
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
@@ -71,7 +71,7 @@ jobs:
           user: 5UP3R-D1N
           template: terminal
           base: header, metadata
-          config_timezone: Europe/Berlin
+          config_timezone: Asia/Bangkok
           plugin_lines: yes
           plugin_languages: yes
           plugin_languages_threshold: 2%
