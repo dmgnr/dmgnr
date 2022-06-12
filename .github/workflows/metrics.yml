@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: miniminelp
+          user: 5UP3R-D1N
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Berlin
@@ -50,5 +50,5 @@ jobs:
           plugin_licenses: yes
           plugin_contributors: yes
           plugin_achievements: yes
-          plugin_code: no
+          plugin_code: yes
           plugin_achievements_limit: 10
