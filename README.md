@@ -1,13 +1,13 @@
 <img src="./github-metrics.svg" style="width:100%"></img>
 
-### My Teams
+### Developer I followed
 
-[![shakelang][projects/shakelang/avatar]][projects/shakelang/github]
+[![stevertus][projects/stevertus/avatar]][projects/stevertus/github]
 
 <!-- Member  Avatars: -->
 
-[projects/shakelang/avatar]: https://github.com/shakelang.png?size=40
+[projects/stevertus/avatar]: https://github.com/stevertus.png?size=40
 
 <!-- Member GitHub accounts -->
 
-[projects/shakelang/github]: https://github.com/shakelang/
+[projects/stevertus/github]: https://github.com/stevertus/
