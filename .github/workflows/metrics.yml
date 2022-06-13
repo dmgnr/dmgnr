@@ -79,10 +79,6 @@ jobs:
           plugin_lines: yes
           plugin_languages: yes
           plugin_languages_threshold: 2%
-      -
-
       - uses: ericcornelissen/svgo-action@v3
-
         with:
-
           repo-token: ${{ secrets.GITHUB_TOKEN }}
