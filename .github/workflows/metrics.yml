@@ -51,6 +51,10 @@ jobs:
           plugin_achievements: yes
           plugin_code: yes
           plugin_achievements_limit: 10
+      - uses: actions/checkout@v3
+      - uses: ericcornelissen/svgo-action@v3
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
   ternimal:
     runs-on: ubuntu-latest
     steps:
@@ -75,3 +79,10 @@ jobs:
           plugin_lines: yes
           plugin_languages: yes
           plugin_languages_threshold: 2%
+      -
+
+      - uses: ericcornelissen/svgo-action@v3
+
+        with:
+
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
