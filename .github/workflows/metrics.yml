@@ -71,8 +71,8 @@ jobs:
           plugin_notable_types: commit 
           plugin_screenshot: yes
           plugin_screenshot_title: XKCD of the day
-          plugin_screenshot_url: https://xkcd.com
-          plugin_screenshot_selector: ".user-avatar , .user-avatar-content , img , .threads-section"
+          plugin_screenshot_url: https://autocode.com/supersmp
+          plugin_screenshot_selector: ".user-avatar-content , .about-me , .cover-image img , .threads-section"
       - uses: actions/checkout@v3
       - uses: ericcornelissen/svgo-action@v3
         with:
