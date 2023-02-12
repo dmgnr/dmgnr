@@ -72,6 +72,7 @@ jobs:
           plugin_screenshot: yes
           plugin_screenshot_title: Autocode page
           plugin_screenshot_url: https://autocode.com/supersmp
+          plugin_screenshot_wait: 7500
           #plugin_screenshot_selector: "has-cover-image"
       - uses: actions/checkout@v3
       - uses: ericcornelissen/svgo-action@v3
