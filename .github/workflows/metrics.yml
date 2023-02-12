@@ -68,7 +68,11 @@ jobs:
           plugin_lines_sections: base
           plugin_notable: yes
           plugin_notable_from: organization
-          plugin_notable_types: commit
+          plugin_notable_types: commit 
+          plugin_screenshot: yes
+          plugin_screenshot_title: XKCD of the day
+          plugin_screenshot_url: https://xkcd.com
+          plugin_screenshot_selector: ".user-avatar , .user-avatar-content , img , .threads-section"
       - uses: actions/checkout@v3
       - uses: ericcornelissen/svgo-action@v3
         with:
