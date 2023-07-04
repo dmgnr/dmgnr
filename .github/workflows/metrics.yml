@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: 5UP3R-D1N
+          user: superdinmc
           template: classic
           base: header, activity, community, repositories, metadata
           config_octicon: yes
@@ -90,7 +90,7 @@ jobs:
 
           # Options
           filename: metrics.terminal.svg
-          user: 5UP3R-D1N
+          user: superdinmc
           template: terminal
           base: header, metadata
           config_timezone: Asia/Bangkok
