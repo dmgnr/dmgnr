@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: dreamgineer
+          user: dmgnr
           template: classic
           base: header, activity, community, repositories, metadata
           config_octicon: yes
@@ -90,7 +90,7 @@ jobs:
 
           # Options
           filename: metrics.terminal.svg
-          user: dreamgineer
+          user: dmgnr
           template: terminal
           base: header, metadata
           config_timezone: Asia/Bangkok
