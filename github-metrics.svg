@@ -301,8 +301,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="282.94 329"/>
-                                <text x="60" y="60" dominant-baseline="central">86</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="279.65 329"/>
+                                <text x="60" y="60" dominant-baseline="central">85</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -356,6 +356,118 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#372a829</div>
+                                        <div class="message"></div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5afeb60</div>
+                                        <div class="message"></div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed  commits in
+                                        <span class="repo">astrxldev/uptime</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0b9bc68</div>
+                                        <div class="message"></div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8650232</div>
+                                        <div class="message"></div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8e2f964</div>
+                                        <div class="message"></div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d05addf</div>
+                                        <div class="message"></div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#08d0836</div>
+                                        <div class="message"></div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#60cee1f</div>
+                                        <div class="message"></div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dcbf094</div>
+                                        <div class="message"></div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6035f00</div>
+                                        <div class="message"></div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd67a5c</div>
+                                        <div class="message"></div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6511146</div>
+                                        <div class="message"></div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#70f3527</div>
+                                        <div class="message"></div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d5d1b8d</div>
+                                        <div class="message"></div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc0ad3f</div>
+                                        <div class="message"></div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed  commits in
+                                        <span class="repo">astrxldev/uptime</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#60d527d</div>
+                                        <div class="message"></div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed  commits in
+                                        <span class="repo">astrxldev/uptime</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#8f38a69</div>
                                         <div class="message"></div>
                                     </div>
@@ -385,118 +497,6 @@
                                     </div>
                                     <div class="commit">
                                         <div class="sha">#8671002</div>
-                                        <div class="message"></div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed  commits in
-                                        <span class="repo">astrxldev/uptime</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fe385d2</div>
-                                        <div class="message"></div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed  commits in
-                                        <span class="repo">astrxldev/uptime</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#047c99e</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c6ea2d5</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#42cb7e4</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#40034cc</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8f32c74</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b707e4</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f2dfce8</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fcb3e27</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f6e4537</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#56f4ee4</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c373593</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0dd1b0b</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b499e03</div>
-                                        <div class="message"></div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed  commits in
-                                        <span class="repo">astrxldev/uptime</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cd063b0</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#47f1a0e</div>
                                         <div class="message"></div>
                                     </div>
                                 </div>
@@ -635,7 +635,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.3579739904175 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="94.44284736481863 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -699,7 +699,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 736k out of 254m users</span>
+                                    <span class="gh">ranked 737k out of 254m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">61</div>
                                     </div>
@@ -1202,7 +1202,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Nov 2026, 18:52:58 (timezone Asia/Bangkok) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 3 Nov 2026, 04:09:45 (timezone Asia/Bangkok) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
